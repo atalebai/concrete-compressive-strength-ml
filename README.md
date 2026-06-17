@@ -99,9 +99,10 @@ Major findings:
 
 ---
 
+
 ## Example Figure
 
-Insert one figure from Notebook 4 here (Model Comparison or Feature Importance).
+### Random Forest Feature Importance
 
-![Feature Importance](figures/feature_importance.png)
+![Random Forest Feature Importance](figures/rf_feature_importance.png)
 
